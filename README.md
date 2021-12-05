@@ -1,1 +1,3 @@
-# Java-College
+# Java
+Assignments & Lab work
+
