@@ -1,5 +1,5 @@
 Due Date : 16/12/2021 
-Submitted date: 14/12/2021
+Submitted date: 15/12/2021
 
 
 Q.1) Write a program to demonstrate all three types of constructor in java.
@@ -257,7 +257,7 @@ final class Final{  //thid ensures that it cannot be extended to other class.
    }
 
 
- class Super {
+class Super {
     int value = 3;
    }
    
@@ -333,3 +333,6 @@ class Static
 		System.out.println(Static.getCounter());
 	}
 }
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
